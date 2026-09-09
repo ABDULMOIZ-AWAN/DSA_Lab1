@@ -41,6 +41,10 @@
 
 # Build directories
 build/
+/build/
+/Debug/
+/Release/
+
 Build/
 build-*/
 
